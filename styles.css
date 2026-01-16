@@ -33,7 +33,7 @@ body {
 /* HERO */
 .hero {
   height: 85vh;
-  background: url('assets/hero.jpg') center/cover;
+  background: url('https://images.ctfassets.net/09muo917z9ra/2BbZh7l1D3Qv98rq0QgZKr/19b7edc4ab9f4abae8c8e73e0221f87e/IMG-20251204-WA0005.jpg') center/cover;
   position: relative;
 }
 
