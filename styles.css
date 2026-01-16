@@ -70,7 +70,7 @@ body {
 
 .section.dark {
   background: var(--primary);
-  color: var(--light);
+  color: var(--accent);
 }
 
 .grid-3 {
@@ -81,7 +81,7 @@ body {
 
 .card {
   background: var(--light);
-  color: var(--dark);
+  color: var(--accent);
   padding: 25px;
   font-size: 1.1rem;
 }
