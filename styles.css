@@ -93,8 +93,8 @@ body {
   gap: 20px;
 }
 
-.project-box {
-  background: #dcdcdc;
+.project-box
+  background: url;(' ') centre / cover; 
   height: 200px;
   border-radius: 6px;
 }
