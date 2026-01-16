@@ -93,7 +93,7 @@ body {
   gap: 20px;
 }
 
-.project-box
+.project-box {
   background: url;('https://images.ctfassets.net/09muo917z9ra/49WFAosNI00v2JtrK4sOEh/4ac5a125d330fafbd935d45b8294400e/file_00000000e02871f58c52a1b69e33d1d0.png') centre / cover; 
   height: 200px;
   border-radius: 6px;
